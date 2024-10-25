@@ -165,7 +165,7 @@
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-    var keyPexels = "p88QiXY1U8yqC4UGBhVf1pZxuPvxD2p46hZpqxMzT7QWgjTQww5U01Ob";
+    var keyPexels = "{{$apiKey}}";
     var keyword = "test";
     var numberOfImage = 12;
     var currentPage = 1;
